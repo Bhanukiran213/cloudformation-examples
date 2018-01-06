@@ -1,0 +1,4 @@
+aws ec2 describe-instance-status
+aws ec2 monitor-instances --instance-ids i-09c3815ed51ee4085
+aws ec2 describe-instaces
+aws ec2 describe-instances --instance-ids i-09c3815ed51ee4085
